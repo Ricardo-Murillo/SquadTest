@@ -1,0 +1,2 @@
+# SquadTest
+A simple test
